@@ -1,0 +1,6 @@
+c:\users\athdga\documents\visual studio 2015\Projects\sundio\sundio\bin\Debug\sundio.exe.config
+c:\users\athdga\documents\visual studio 2015\Projects\sundio\sundio\bin\Debug\sundio.exe
+c:\users\athdga\documents\visual studio 2015\Projects\sundio\sundio\bin\Debug\sundio.pdb
+c:\users\athdga\documents\visual studio 2015\Projects\sundio\sundio\obj\Debug\sundio.csprojResolveAssemblyReference.cache
+c:\users\athdga\documents\visual studio 2015\Projects\sundio\sundio\obj\Debug\sundio.exe
+c:\users\athdga\documents\visual studio 2015\Projects\sundio\sundio\obj\Debug\sundio.pdb
